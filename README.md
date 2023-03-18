@@ -10,4 +10,4 @@
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=SpeackerDev&repo=SpeackerDev&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+![Snake animation](https://github.com/SpeackerDev/SpeackerDev/blob/output/github-contribution-grid-snake.svg)
