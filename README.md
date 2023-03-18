@@ -10,4 +10,4 @@
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/SpeackerDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SpeackerDev/SpeackerDev/blob/output/github-contribution-grid-snake.svg)
